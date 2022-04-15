@@ -1,0 +1,31 @@
+#userFeed{
+    margin-top: 10px;
+    background-color: #5d4954;
+    color: rgb(243, 217, 217);
+    border-radius: 25px;
+    width:250px;
+    height:150px;
+    
+}
+#feed-box{
+    position: absolute;
+    top:100px;
+    margin-top: 10px;
+    background-color: #5d4954;
+    color: rgb(243, 217, 217);
+    border-radius: 25px;
+    width:250px;
+    height:200px;
+    
+}
+#btn-feed{
+    margin-left: 10px;
+}
+
+.inner-row{
+    margin-top: 150px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+   align-items: center;
+}
