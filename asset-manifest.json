@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/users-and-feed/static/css/main.7cfbdf02.css",
+    "main.css": "/users-and-feed/static/css/main.90f3ecbe.css",
     "main.js": "/users-and-feed/static/js/main.9966bfcc.js",
     "static/js/787.92e7828b.chunk.js": "/users-and-feed/static/js/787.92e7828b.chunk.js",
     "static/media/Ubuntu-Light.ttf": "/users-and-feed/static/media/Ubuntu-Light.0dd2d5986e2731a16ee7.ttf",
     "index.html": "/users-and-feed/index.html",
-    "main.7cfbdf02.css.map": "/users-and-feed/static/css/main.7cfbdf02.css.map",
+    "main.90f3ecbe.css.map": "/users-and-feed/static/css/main.90f3ecbe.css.map",
     "main.9966bfcc.js.map": "/users-and-feed/static/js/main.9966bfcc.js.map",
     "787.92e7828b.chunk.js.map": "/users-and-feed/static/js/787.92e7828b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cfbdf02.css",
+    "static/css/main.90f3ecbe.css",
     "static/js/main.9966bfcc.js"
   ]
 }
