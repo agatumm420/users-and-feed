@@ -3,47 +3,55 @@
     src: local('Ubuntu-Light'), url(../fonts/Ubuntu-Light.ttf) format('truetype');
     /* other formats include: 'woff2', 'truetype, 'opentype',
                               'embedded-opentype', and 'svg' */
-  }
-#welcomeText{
-    font: local('Ubuntu-Light');
-    color:#5d4954;
-    font-size: 40px;
-    
 }
 
-.box{
-    display:flex;
-    
-    
+#welcomeText {
+    font-family: "Poppins", sans-serif;
+
+    color: #5d4954;
+    font-size: 40px;
+
+}
+
+.box {
+
+    max-width: 1440px;
+    display: flex;
+
+    align-items: center;
     flex-direction: column;
     justify-content: space-evenly;
-    width:60%;
-    height:600px;
+    width: 60%;
+    height: 600px;
     background: url(https://images.unsplash.com/photo-1628694647734-bf4aedeede1e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80);
-    background-color: #252525  ;
+    background-color: #252525;
+    border-radius: 25px;
 }
-.circle{
-    position: relative;
-    left:200px;
-    display:flex;
+
+.circle {
+
+
+    display: flex;
     flex-direction: column;
     justify-content: center;
-    
-    width:60%;
+    gap: 15px;
+    width: 60%;
     height: 80%;
     align-items: center;
-    background-color: rgba(255, 255, 255, .15);  
+    background-color: rgba(255, 255, 255, .15);
     backdrop-filter: blur(5px);
+    border-radius: 25px;
 
 }
-.submit-btn{
+
+.submit-btn {
     text-decoration: none;
     margin-top: 5px;
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: 6px 14px;
-    font-family:  'Ubuntu', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
     border-radius: 6px;
     border: none;
     cursor: pointer;
@@ -54,6 +62,27 @@
     -webkit-user-select: none;
     touch-action: manipulation;
 }
+
+.btn-1 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    text-align: center;
+    border: 2.5px solid #5d4954;
+    width: 100px;
+    border-radius: 15px;
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    color: #5d4954;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.btn-1:hover {
+    filter: brightness(1.2);
+}
+
 .submit-btn:focus {
     box-shadow: inset 0px 0.8px 0px -0.25px rgba(255, 255, 255, 0.2), 0px 0.5px 1px rgba(0, 0, 0, 0.1), 0px 0px 0px 3.5px rgba(58, 108, 217, 0.5);
     outline: 0;
