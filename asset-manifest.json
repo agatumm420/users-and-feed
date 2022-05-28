@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/users-and-feed/static/css/main.ab1fba44.css",
-    "main.js": "/users-and-feed/static/js/main.12b1ca7d.js",
+    "main.css": "/users-and-feed/static/css/main.6805a84e.css",
+    "main.js": "/users-and-feed/static/js/main.18eff22e.js",
     "static/js/787.92e7828b.chunk.js": "/users-and-feed/static/js/787.92e7828b.chunk.js",
     "static/media/Ubuntu-Light.ttf": "/users-and-feed/static/media/Ubuntu-Light.0dd2d5986e2731a16ee7.ttf",
     "index.html": "/users-and-feed/index.html",
-    "main.ab1fba44.css.map": "/users-and-feed/static/css/main.ab1fba44.css.map",
-    "main.12b1ca7d.js.map": "/users-and-feed/static/js/main.12b1ca7d.js.map",
+    "main.6805a84e.css.map": "/users-and-feed/static/css/main.6805a84e.css.map",
+    "main.18eff22e.js.map": "/users-and-feed/static/js/main.18eff22e.js.map",
     "787.92e7828b.chunk.js.map": "/users-and-feed/static/js/787.92e7828b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab1fba44.css",
-    "static/js/main.12b1ca7d.js"
+    "static/css/main.6805a84e.css",
+    "static/js/main.18eff22e.js"
   ]
 }
